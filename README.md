@@ -1,5 +1,20 @@
 ### Hi there 👋
+I'm Techboy! I'm a bit old for 'boy', but it works.
 
+Pronouns: He/Him
+
+Platforms: Windows/Linux
+- Prefered Windows version : Windows 8.1 Pro (yes)
+- Prefered Linux distro : Lubuntu 20.04 atm (lxqt is bae)
+
+Coding experience:
+- Batch (Windows, basic scripting)
+- Bash (Linux/Ubuntu, basic scripting, invoking programs with env variables [DRI_PRIME=1])
+
+What does Techboy do?
+- He lurks on GitHub
+- Spends too much time on his many computers
+- Spends too much money on yet another computer/iDevice/whatever
 <!--
 **techboy411/techboy411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
