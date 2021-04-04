@@ -15,6 +15,11 @@ What does Techboy do?
 - He lurks on GitHub
 - Spends too much time on his many computers
 - Spends too much money on yet another computer/iDevice/whatever
+
+⚡ Fun facts:
+- I'm an Aspie with ADHD. Explosive combo.
+- I carry a Pixel phone and a iPod Touch. Yes. Cross-platform, indeed.
+- Angered at almost *nothing*. But you won't *really* know it, unless you are in a call with me. Or i write angry. 
 <!--
 **techboy411/techboy411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
