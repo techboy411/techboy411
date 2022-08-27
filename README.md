@@ -19,7 +19,7 @@ What does Techboy do?
 ⚡ Fun facts:
 - I'm an Aspie with ADHD. Explosive combo.
 - I carry a Pixel phone and a iPod Touch. Yes. Cross-platform, indeed.
-- Angered at almost *nothing*. But you won't *really* know it, unless you are in a call with me. Or i write angry. 
+- Angered at almost *everything*. But you won't *really* know it, unless you are in a call with me. Or i write angry. 
 <!--
 **techboy411/techboy411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
