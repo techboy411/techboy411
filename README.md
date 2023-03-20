@@ -17,7 +17,7 @@ What does Techboy do?
 - Spends too much money on yet another computer/iDevice/whatever
 
 ⚡ Fun facts:
-- I'm an Aspie with ADHD. Explosive combo.
+- I'm an autistic dude with ADHD. Explosive combo.
 - I carry a Pixel phone and a iPod Touch. Yes. Cross-platform, indeed.
 - Angered at almost *everything*. But you won't *really* know it, unless you are in a call with me. Or i write angry. 
 <!--
