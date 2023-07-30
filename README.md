@@ -4,7 +4,7 @@ I'm Techboy! I'm a bit old for 'boy', but it works.
 Pronouns: He/Him
 
 Platforms: Windows/Linux
-- Prefered Windows version : Windows 8.1 Pro (yes)
+- Prefered Windows version : Windows 8.1 Pro/Entreprise (yes)
 - Prefered Linux distro : Lubuntu 21.04 atm (lxqt is bae)
 
 Coding experience:
