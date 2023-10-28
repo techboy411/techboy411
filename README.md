@@ -3,9 +3,10 @@ I'm Techboy! I'm a bit old for 'boy', but it works.
 
 Pronouns: He/Him
 
-Platforms: Windows/Linux
-- Prefered Windows version : Windows 8.1 Pro/Entreprise (yes)
+Platforms: Windows/Linux/macOS (yes, the big 3)
+- Prefered Windows version : Windows 8.1 Pro/Entreprise (yes)/ Windows 10 (IoT) LTSC Entreprise 2021
 - Prefered Linux distro : Lubuntu 21.04 atm (lxqt is bae)
+- Prefered macOS version : Currently Big Sur
 
 Coding experience:
 - Batch (Windows, basic scripting)
