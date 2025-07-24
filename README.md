@@ -11,6 +11,7 @@ Platforms: Windows/Linux/macOS (yes, the big 3)
 Coding experience:
 - Batch (Windows, basic scripting)
 - Bash (Linux/Ubuntu, basic scripting, invoking programs with env variables [DRI_PRIME=1])
+- Basic HTML - i don't do CSS but i can make a basic page
 
 What does Techboy do?
 - He lurks on GitHub
